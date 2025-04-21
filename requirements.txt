@@ -1,0 +1,7 @@
+streamlit
+openai-whisper
+keybert
+transformers
+torch
+sentence-transformers
+yt-dlp
